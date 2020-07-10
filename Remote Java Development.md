@@ -1,5 +1,6 @@
 - *This is the copy of my question at [StackOverflow](https://stackoverflow.com/questions/56892720/developing-in-java-ide-locally-but-building-and-deploying-remotely)*
 - *This is the source of the [diagram](https://github.com/pozdneev/draw.io/blob/master/Remote%20Java%20Development.drawio)*
+- *This might be a solution https://habr.com/ru/post/510210/*
 
 # Developing in Java IDE locally, but building and deploying remotely
 This is the development environment configuration I need:
